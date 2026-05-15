@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "axios": "^1.11.0",
+    "bootstrap": "^5.3.7",
+    "date-fns": "^4.1.0"
+  }
+}
